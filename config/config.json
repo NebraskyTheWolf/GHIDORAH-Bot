@@ -1,0 +1,17 @@
+{
+	"ownerID": "",
+	"MongoDBInfo": {
+		"host": "",
+		"options": {
+			"useNewUrlParser": true,
+        	"useUnifiedTopology": true
+		}
+	},
+	"RedisClient": {
+		"url": ""
+	},
+	"protocols": [],
+	"baseProtocol": "security@ghidorah.uk",
+
+	"eula": false
+}
