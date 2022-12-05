@@ -98,7 +98,7 @@ client.PayloadHandler = PayloadHandler;
 client.fingerprint = prints;
 client.Convertor = convertor;
 
-client.version = '3.5.5';
+client.version = '6.5';
 client.revision = revision;
 
 client.moderationHelper = Moderation;

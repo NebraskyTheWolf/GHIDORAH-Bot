@@ -1,4 +1,3 @@
-const bitfield = require('discord-bitfield-calculator');
 const request = require('request');
 
 module.exports = {
